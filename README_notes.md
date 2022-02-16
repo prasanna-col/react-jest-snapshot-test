@@ -34,6 +34,7 @@ commands in Docker:
 
     docker exec -it CONTAINER_ID sh    // to execute the project in shell , where give thet "npm start" cmd to run. 
 
+Video tutorial: https://www.youtube.com/watch?v=O3SvhpnSZWY
 ------------------------------------------------------------------------------
 
 
