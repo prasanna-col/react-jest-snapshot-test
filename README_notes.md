@@ -23,9 +23,11 @@ commands in Docker:
  1) run the following command in root folder fot build the project
       
     docker build . -t ImageName  (ImageName - is user defined whatever you give)
-    //docker build -t myreactapp . 
+    //docker build -t myreactapp .  
 
-    docker images ls   // to see the images are available
+    // docker run -dp 3000:3000 manikandan97/flutter:latest  // to start the project
+
+    docker images   // to see the images are available
 
     docker run imageName   // run the project with the crt syntax
 
